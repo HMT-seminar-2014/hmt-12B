@@ -14,7 +14,11 @@
 
 
 ## The hand of the intermarginal scholia ##
+###Corrections
 
+### Omitted Lines Added
+
+### Completeion Of Elisions
 
 (Team C)
 
