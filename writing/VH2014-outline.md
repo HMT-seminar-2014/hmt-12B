@@ -12,13 +12,14 @@
 
 (Team B)
 
-
-## The hand of the intermarginal scholia ##
 ###Corrections
 
 ### Omitted Lines Added
 
 ### Completeion Of Elisions
+
+## The hand of the intermarginal scholia ##
+
 
 (Team C)
 
