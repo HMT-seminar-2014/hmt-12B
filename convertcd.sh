@@ -20,7 +20,7 @@ do
     pandoc -o tmp.html ${f}
     HTML=`cat tmp.html`
     echo $PROLOG $HTML $TRAIL > ${filename}.html
-
+    /bin/rm tmp.html
     #echo "Process ${f}, ${filename}, ${extension}"
 done
 
