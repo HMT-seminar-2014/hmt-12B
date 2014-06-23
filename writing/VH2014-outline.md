@@ -12,6 +12,13 @@
 
 (Team B)
 
+###Corrections
+
+### Omitted Lines Added
+
+### Completeion Of Elisions
+
+[correction1img]: urn:cite:hmt:vaimg.VA030RN-0031@0.1632,0.4303,0.0302,0.0235
 
 ## The hand of the intermarginal scholia ##
 
