@@ -10,9 +10,7 @@
 
 ## The "text hand" (hand of the *Iliad* text) ##
 
-(Team B)
-
-Evidence within the Venetus A manuscript suggests that one scribe the main text, the main scholia and the intermarginal scholia, albeit at different times. In composing the main text, the scribe additionally added breathing marks, accents, apostrophes for elision, the titles of each book, and among other things many of the interlinear scholia. The connection of one hand for both the main text and interlinear scholia can be deduced from the similarity of both the thickness and color of the pen. What follows are examples of various interlinear scholia made by the text-hand divided into three different categories: Corrections, Omitted Lines that are then added, and Completed Elisions. 
+Evidence within the Venetus A manuscript suggests that one scribe composed the main text, the main scholia, intermarginal scholia, and interlinear scholia, albeit at different times. When composing the main text, the scribe not only added breathing marks, accents, apostrophes for elision, the titles of each book, among other things, but also composed the interlinear scholia. This connection between the main text and interlinear scholia can be deduced from the similarity of both the thickness and color of the pen. What follows are examples of various interlinear scholia made by the text-hand divided into three different categories: Corrections, Omitted Lines that are then added, and Completed Elisions. 
 
 ###Corrections
 
@@ -22,6 +20,8 @@ Evidence within the Venetus A manuscript suggests that one scribe the main text,
 [correction2img]: urn:cite:hmt:vaimg.VA106VN-0609@0.4414,0.5508,0.4735,0.0241
 
 ### Completeion Of Elisions
+
+Thus all the interlinear scholia, with very few exceptions (see examples...), appear to have been composed concurrently with the composition with the main text. Once the scribe began work on the main scholia, he did not appear to return to the area dominated by the main text.
 
 [correction1img]: urn:cite:hmt:vaimg.VA030RN-0031@0.1632,0.4303,0.0302,0.0235
 
