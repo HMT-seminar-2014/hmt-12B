@@ -22,7 +22,7 @@ Main Text | Scolio Correction | As Shown on Folio
 
 ### Omitted Lines Added
 
-"" | Text | Image
+ | Text | Image
 --- | --- | ---
 Original |  | !{106v}[omitted1img]
 Added |  | !{106v}[omitted2img]
