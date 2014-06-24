@@ -18,6 +18,9 @@ Evidence within the Venetus A manuscript suggests that one scribe the main text,
 
 ### Omitted Lines Added
 
+[correction1img]: urn:cite:hmt:vaimg.VA106VN-0609@0.4064,0.8074,0.4194,0.0211
+[correction2img]: urn:cite:hmt:vaimg.VA106VN-0609@0.4414,0.5508,0.4735,0.0241
+
 ### Completeion Of Elisions
 
 [correction1img]: urn:cite:hmt:vaimg.VA030RN-0031@0.1632,0.4303,0.0302,0.0235
