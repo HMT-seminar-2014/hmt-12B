@@ -30,6 +30,17 @@
                             <p>ἀδιαλείπτως</p>
                         </div>
                     </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:12.B2" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.29</p>
+                        </div>
+                        <div type="comment">
+                            <p>κορμῶν ξύλον</p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>
