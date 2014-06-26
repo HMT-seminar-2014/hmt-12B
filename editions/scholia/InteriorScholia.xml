@@ -73,10 +73,11 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.??</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.44</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>γράφεται <q>ἀντίον</q> οὑ γὰρ <persName n="urn:cite:hmt:pers.pers16"
+                                    >Αρίσταρχος</persName>.</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAint.hmt:12.B5" type="scholion">
@@ -84,10 +85,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.??</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.46</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>οὕτως χωρὶς τοῦ Ἀρίσταρχος· ἔστι γὰρ ἡ ἀγηνορία.</p>
                         </div>
                     </div>
                 </body>
