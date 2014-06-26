@@ -26,7 +26,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.30</p>
                         </div>
                         <div type="comment">
-                            <p>ουτως <persName n="urn:cite:hmt:pers.pers16"><choice>
+                            <p><choice><abbr>ουτ</abbr><expan>οὕτως</expan></choice> <persName n="urn:cite:hmt:pers.pers16"><choice>
                                         <abbr>Αριστχ</abbr>
                                         <expan>Ἀρίσταρχος</expan>
                                     </choice></persName>
