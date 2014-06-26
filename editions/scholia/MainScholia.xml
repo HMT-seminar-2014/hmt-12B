@@ -108,8 +108,10 @@
                                         <reg>Διονύσιος</reg>
                                     </choice></persName> δὲ ὁ <rs type="ethnic"
                                     n="urn:cite:hmt:place.place71">Σιδώνιος</rs>, τὴν μὲν πτωσιν οὐκ
-                                ενήλλαξε τὴν δὲ <choice><abbr>προθ</abbr><expan>προθεσιν</expan></choice> προσλαβὼν εἴρηκεν <q>ἐπι πύργους</q>
-                                βαλλόμενα⁑</p>
+                                ενήλλαξε τὴν δὲ <choice>
+                                    <abbr>προθ</abbr>
+                                    <expan>προθεσιν</expan>
+                                </choice> προσλαβὼν εἴρηκεν <q>ἐπι πύργους</q> βαλλόμενα⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.B6" type="scholion">
