@@ -124,29 +124,36 @@
                         <div type="comment">
                             <p>τηῖ <persName n="urn:cite:hmt:pers.pers8">Διὸς</persName> γνώμη· τὰς
                                 ψυχὰς κεκακωμενόι. <persName n="urn:cite:hmt:pers.pers8"
-                                    >Διὸς</persName> δὲ μάστιξ ὁ κεραυνός·</p>
+                                    >Διὸς</persName> δὲ μάστιξ ὁ <choice>
+                                    <sic>κεραυνὸς</sic>
+                                    <corr>κεραυνός</corr>
+                                </choice>·</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.B7" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>αὐτὰρ ὅ γ' ὡς τὸ πρόσθεν:</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.??</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.40</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>εἴτε ὑποστίζοιμεν ἐπὶ τὸ <rs type="waw">προσθεν</rs>, εἴτε
+                                διαστέλλοιμεν ἐπι τὸ <rs type="waw">ἐμάρναντο</rs>· τὸ ῥῆμα κοινὸν γίνεται ἀμφοτερων τῶν
+                                μερῶν <q>ἐμάχετο ὡς πρόσθεν <w>ἐμάχε<del>ν</del>το</w></q>⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.B8" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>ταρβεῖ οὐδὲ φοβεῖται:</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.??</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.46</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p> ὅτι οὐ τὸ αὐτὸ σημαίνει δι' ἀμφοτέρων, ἀλλὰ διὰ μὲν τοῦ ταρβεῖ
+                                δέδιεν, ὃ ἡμεῖς φοβεῖται, διὰ δὲ τοῦ φοβεῖται φεύγει. λέγει οὖν,
+                                οὔτε δέδιεν οὔτε φεύγει.</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.B9" type="scholion">
@@ -154,10 +161,14 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.??</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.49</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>τὸ ελίσσετο ἑκατέροις δύναται προσδίδοσθαι καὶ σημαίνει ἢ τὸ
+                                παρεκάλει παρὰ τὸ λίσσεσθαι ἢ ἐστρέφετο παρὰ τὸ ἑλίσσω ῥῆμα, ἐπεὶ
+                                καὶ λέοντι αὐτὸν εἰκάζει. πιθανώτερον δὲ τοῖς ἑξῆς αὐτὸ συντάττειν·
+                                οὔτε γὰρ εὔκαιρος ἡ διαστολὴ ἐπὶ τοῦ ἐννεακαιδεκάτου χρόνου, οὔτε τὸ
+                                πλῆθος εἰκὸς αὐτὸν παρακαλεῖν, ἀλλὰ τοὺς ἑταίρους μόνους.</p>
                         </div>
                     </div>
                 </body>
