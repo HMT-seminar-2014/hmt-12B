@@ -116,13 +116,15 @@
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.B6" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p><persName n="urn:cite:hmt:pers.pers8">Διὸς</persName> μάστιγι::</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.??</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>τηῖ <persName n="urn:cite:hmt:pers.pers8">Διὸς</persName> γνώμη· τὰς
+                                ψυχὰς κεκακωμενόι. <persName n="urn:cite:hmt:pers.pers8"
+                                    >Διὸς</persName> δὲ μάστιξ ὁ κεραυνός·</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.B7" type="scholion">
