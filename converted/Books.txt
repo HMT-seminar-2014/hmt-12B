@@ -1,3 +1,0 @@
-Allen.md
-cdmgr.conf
-VH2014-outline.md
