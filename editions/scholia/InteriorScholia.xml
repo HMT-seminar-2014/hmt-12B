@@ -88,7 +88,12 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:12.46</p>
                         </div>
                         <div type="comment">
-                            <p>οὕτως χωρὶς τοῦ Ἀρίσταρχος· ἔστι γὰρ ἡ ἀγηνορία.</p>
+                            <p><choice>
+                                    <abbr>ουτ</abbr>
+                                    <expan>οὕτως</expan>
+                                </choice> χωρὶς τοῦ <rs type="waw">ϊ</rs>
+                                <persName n="urn:cite:hmt:pers.pers16">Ἀρίσταρχος</persName>
+                                <w>ἔσ<unclear>τι</unclear></w> ἡ ἀγηνορία⁑</p>
                         </div>
                     </div>
                 </body>
