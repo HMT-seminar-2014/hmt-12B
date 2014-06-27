@@ -14,21 +14,57 @@ Evidence within the Venetus A manuscript suggests that one scribe composed the m
 
 ###Corrections###
 
-Main Text | Scolio Correction | As Shown on Folio --- | --- | ---  | | ![30r][correction1img]
+| Main Text | Scolio Correction | As Shown on Folio | | --- | --- | --- | | | | ![30r][correction1img] |
 
-[correction1img]: images/img15.jpg
+[correction1img]: images/img1.jpg
 
 ###Omitted Lines Added###
 
-| Text | Image --- | --- | --- Original | | ![106v][omitted1img] Added | | ![106v][omitted2img]
+####Example 1:####
 
-[omitted1img]: images/img16.jpg
+[Book 8 Line 315](http://beta.hpcc.uh.edu/tomcat/hmtdigital/texts?request=GetPassagePlus&urn=urn:cts:greekLit:tlg0012.tlg001.msA:8.314) was added at the bottom of [folio 106v][folio106] with the [usual sign (a sort of crescent)][usual_sign_crescent1] and the [numeral β][numeral_β1] prefixed, with the [numeral α][numeral_α1] prefixed to [Line 314](http://beta.hpcc.uh.edu/tomcat/hmtdigital/texts?request=GetPassagePlus&urn=urn:cts:greekLit:tlg0012.tlg001.msA:8.315) in the text.
 
-[omitted2img]: images/img17.jpg
+![314][ref_line1_img]
+
+![315][ommitted_line1_img]
+
+[folio106]: images/img3.jpg
+
+[ref_line1_img]: images/img10.jpg
+
+[numeral_α1]: images/img4.jpg
+
+[ommitted_line1_img]: images/img6.jpg
+
+[numeral_β1]: images/img5.jpg
+
+[usual_sign_crescent1]: images/img14.jpg
+
+####Example 2:####
+
+[ref_line2_img]: images/img11.jpg
+
+[ommitted_line2_img]: images/img7.jpg
+
+####Example 3:####
+
+[ref_line3_img]: images/img12.jpg
+
+[ommitted_line3_img]: images/img8.jpg
+
+####Example 4:####
+
+[ref_line4_img]: images/img13.jpg
+
+[ommitted_line4_img]: images/img9.jpg
+
+####Example 5:####
+
+[deleted_line1_img]: images/img2.jpg
 
 ###Completeion Of Elisions###
 
-Main Text | Scolio Correction | As Shown on Folio --- | --- | ---  | | |
+| Main Text | Scolio Correction | As Shown on Folio | | --- | --- | --- | | | | |
 
 Thus these types of interlinear scholia, with very few exceptions (see examples...), appear to have been composed concurrently with the composition with the main text. Once the scribe began work on the main scholia, he did not appear to return to the area dominated by the main text.
 
