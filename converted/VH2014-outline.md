@@ -10,17 +10,17 @@
 
 ##The "text hand" (hand of the *Iliad* text)##
 
-Evidence within the Venetus A manuscript suggests that one scribe composed the main text, the main scholia, intermarginal scholia, and interlinear scholia, albeit at different times. When composing the main text, the scribe not only added breathing marks, accents, apostrophes for elision, the titles of each book, among other things, but also composed the interlinear scholia. This connection between the main text and interlinear scholia can be deduced from the similarity of both the thickness and color of the pen. What follows are examples of various interlinear scholia made by the text-hand divided into three different categories: Corrections, Omitted Lines that are then added, and Completed Elisions. 
+Evidence within the Venetus A manuscript suggests that one scribe composed the main text, the main scholia, intermarginal scholia, and interlinear scholia, albeit at different times. When composing the main text, the scribe not only added breathing marks, accents, apostrophes for elision, the titles of each book, among other things, but also composed much of the interlinear scholia. This connection between the main text and many of the interlinear scholia can be deduced from the similarity of both the thickness and color of the pen. What follows are examples of the types of interlinear scholia that were made by the same hand that created the main text. The examples are divided into three different categories: Corrections, Omitted Lines that are then added, and Completed Elisions. 
 
 ###Corrections###
 
-| Main Text | Scolio Correction | As Shown on Folio | | --- | --- | --- | | "" | "" | ![30r][correction1img] |
+Main Text | Scolio Correction | As Shown on Folio --- | --- | ---  | | ![30r][correction1img]
 
 [correction1img]: images/img1.jpg
 
 ###Omitted Lines Added###
 
-| "" | Text | Image | | --- | --- | --- | | Original | "" | ![106v][omitted1img] | | Added | "" | ![106v][omitted2img] |
+| Text | Image --- | --- | --- Original | | ![106v][omitted1img] Added | | ![106v][omitted2img]
 
 [omitted1img]: images/img2.jpg
 
@@ -28,9 +28,9 @@ Evidence within the Venetus A manuscript suggests that one scribe composed the m
 
 ###Completeion Of Elisions###
 
-| Main Text | Scolio Correction | As Shown on Folio | | --- | --- | --- |
+Main Text | Scolio Correction | As Shown on Folio --- | --- | ---  | | |
 
-Thus all the interlinear scholia, with very few exceptions (see examples...), appear to have been composed concurrently with the composition with the main text. Once the scribe began work on the main scholia, he did not appear to return to the area dominated by the main text.
+Thus these types of interlinear scholia, with very few exceptions (see examples...), appear to have been composed concurrently with the composition with the main text. Once the scribe began work on the main scholia, he did not appear to return to the area dominated by the main text.
 
 ##The hand of the intermarginal scholia##
 

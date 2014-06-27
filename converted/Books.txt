@@ -1,2 +1,3 @@
 cdmgr.conf
+scoliatoshare.md
 VH2014-outline.md
