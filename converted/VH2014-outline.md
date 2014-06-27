@@ -14,21 +14,23 @@ Evidence within the Venetus A manuscript suggests that one scribe composed the m
 
 ###Corrections###
 
-Main Text | Scolio Correction | As Shown on Folio --- | --- | ---  | | ![30r][correction1img]
+Main Text | Scholion Correction | As Shown on Folio --- | --- | --- Full word | Full word corrected with link | ![30r][correction1img]
 
-[correction1img]: images/img1.jpg
+[correction1img]: images/img8.jpg
 
 ###Omitted Lines Added###
 
-| Text | Image --- | --- | --- Original | | ![106v][omitted1img] Added | | ![106v][omitted2img]
+| Text | Image --- | --- | --- Original | Full phrase with link | ![106v][omitted1img] Added | Full phrase with link | ![106v][omitted2img]
 
-[omitted1img]: images/img2.jpg
+Explaination...
 
-[omitted2img]: images/img3.jpg
+[omitted1img]: images/img9.jpg
+
+[omitted2img]: images/img10.jpg
 
 ###Completeion Of Elisions###
 
-Main Text | Scolio Correction | As Shown on Folio --- | --- | ---  | | |
+Main Text | Scholion Correction | As Shown on Folio --- | --- | --- Full word | Full word corrected with link |
 
 Thus these types of interlinear scholia, with very few exceptions (see examples...), appear to have been composed concurrently with the composition with the main text. Once the scribe began work on the main scholia, he did not appear to return to the area dominated by the main text.
 
