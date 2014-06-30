@@ -1,30 +1,34 @@
---- author: HMT Group B
+---
+author: HMT Group B
+title: Final Pres
 
-##title: Final Pres##
-
-#Intro#
+---
+# Intro
 
 Where are we?
 
 - Wall being destroyed
 - Hector begins charge on the Greeks
 
---- = data-x='1000'
+---
+= data-x='1000'
 
 #Interesting things on our folio#
 
-- [Churiks Law Violation}](): [pic_of_top_3rd]
+- [Churiks Law Violation][pic_of_top_3rd]
 - Wealth of interlinear scholia
 
 [pic_of_top_3rd]: images/img14.jpg
 
---- = data-x='2000'
+---
+= data-x='2000'
 
 #Our Conclusions#
 
 ##Even in a small example of just 25 lines we can see the multitextual nature of this document.##
 
---- = data-x='3000'
+---
+= data-x='3000'
 
 #Example 1#
 
@@ -34,7 +38,8 @@ Exterior
 
 [exterior_img]: images/img8.jpg
 
---- = data-x='3000'
+---
+= data-x='3000'
 
 #Example 2#
 
@@ -48,7 +53,8 @@ Intermarginal
 
 [line_of_text_img]: images/img12.jpg
 
---- = data-x='3000'
+---
+= data-x='3000'
 
 #Example 3#
 
@@ -58,7 +64,8 @@ Interior
 
 [interior_img]: images/img9.jpg
 
---- = data-x='3000'
+---
+= data-x='3000'
 
 #Example 4#
 
@@ -68,7 +75,8 @@ Interlinear
 
 [interlinear_img]: images/img10.jpg
 
---- = data-x='3000'
+---
+= data-x='3000'
 
 #Example 5#
 
@@ -78,7 +86,8 @@ Main scholia
 
 [main_img]: images/img13.jpg
 
---- = data-x='4000'
+---
+= data-x='4000'
 
 #Conclusion#
 
