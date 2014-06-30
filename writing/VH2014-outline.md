@@ -38,7 +38,16 @@ Main Text | Scholion Correction | As Shown on Folio
 --- | --- | ---
 Full word | Full word corrected with link |
 
-Thus these types of interlinear scholia, with very few exceptions (see examples...), appear to have been composed concurrently with the composition with the main text. Once the scribe began work on the main scholia, he did not appear to return to the area dominated by the main text.
+Thus these types of interlinear scholia appear to be composed at the same time as the main text. Very few exceptions exist where the interlinear scholia appear to be composed at the same time as the main scholia:
+{141V 11.219}[ElisionText9] !{141V}[ElisionImage9] 
+{158r 12.176}[ElisionText10] !{158r}[ElisionImage10]
+
+Also line 199 of book 12 appears to be in the same hand of the Main Scholia:
+
+{Lines 198 and 200}[AddedText1]- !{158r}[AddedImage1]
+{Line 199}[AddedText2] - !{158r}[AddedImage2]
+
+ For the most part though, once the scribe began work on the main scholia, he did not appear to return to the area dominated by the main text.
 
 ## The hand of the intermarginal scholia ##
 
