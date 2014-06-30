@@ -3,7 +3,6 @@ author: HMT Group B
 title: Final Pres
 
 ---
-
 > Blank Slide
 
 ---
@@ -23,7 +22,7 @@ Where are we?
 = data-x='2000'
 # Aristarchan Critical marks
 
-- Aristarchus was a librarian who editted Homeric texts
+- Aristarchus was a librarian who edited Homeric texts
 - General format:
 	- Mark
 	- ὅτι or !{oti}[oti_example]
@@ -32,28 +31,28 @@ Where are we?
 
 ---
 = data-x='2000'
-# Diplay
+# Diple
 
 Something interesting here!!
 
-!{Diplay Line}[diplay_line]
+!{Diple Line}[diple_line]
 
-!{Diplay Scholion}[diplay_scholion]
+!{Diple Scholion}[diple_scholion]
 
-[diplay_line]: urn:cite:hmt:vaimg.VA155RN-0327@0.1556,0.4027,0.4554,0.0267
-[diplay_scholion]: urn:cite:hmt:vaimg.VA155RN-0327@0.1151,0.648,0.6713,0.0753
+[diple_line]: urn:cite:hmt:vaimg.VA155RN-0327@0.1556,0.4027,0.4554,0.0267
+[diple_scholion]: urn:cite:hmt:vaimg.VA155RN-0327@0.1151,0.648,0.6713,0.0753
 
 ---
 = data-x='2000'
-# Dotted diplay
+# Dotted Diple
 
 Something interesting here related to Zenodotus!!
 
-!{Dot Diplay Line}[dot_diplay_line]
-!{Dot Diplay Scholion}[dot_diplay_scholion]
+!{Dotted Diple Line}[dot_diple_line]
+!{Dotted Diple Scholion}[dot_diple_scholion]
 
-[dot_diplay_line]: urn:cite:hmt:vaimg.VA155RN-0327@0.1509,0.3619,0.4517,0.0296
-[dot_diplay_scholion]: urn:cite:hmt:vaimg.VA155RN-0327@0.5942,0.5861,0.1935,0.0647
+[dot_diple_line]: urn:cite:hmt:vaimg.VA155RN-0327@0.1509,0.3619,0.4517,0.0296
+[dot_diple_scholion]: urn:cite:hmt:vaimg.VA155RN-0327@0.5942,0.5861,0.1935,0.0647
 
 ---
 = data-x='3000'
