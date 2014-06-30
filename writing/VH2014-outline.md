@@ -27,12 +27,12 @@ Full word | Full word corrected with link | !{30r}[correction1img]
 Original | Full phrase with link | !{106v}[omitted1img]
 Added | Full phrase with link | !{106v}[omitted2img]
 
-Explaination...
+Explanation...
 
 [omitted1img]: urn:cite:hmt:vaimg.VA106VN-0609@0.4064,0.8074,0.4194,0.0211
 [omitted2img]: urn:cite:hmt:vaimg.VA106VN-0609@0.4414,0.5508,0.4735,0.0241
 
-### Completeion Of Elisions
+### Completion Of Elisions
 
 Main Text | Scholion Correction | As Shown on Folio
 --- | --- | ---
