@@ -1,6 +1,2 @@
 cdmgr.conf
-CharliesAllen.md
-pres-old.md
 pres2.md
-SamsAllen.md
-VH2014-outline.md

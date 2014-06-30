@@ -20,12 +20,12 @@ Where are we?
 
 ---
 = data-x='2000'
-# Aristarchan Critical marks
+# Aristarchan Critical Marks
 
 - Aristarchus was a librarian who edited Homeric texts
 - General format:
-	- Mark !{diple}[] !{dotted_diple}[] !{obelos}[] !{asterisk}[] !{antisigma}[] !{pointed_antisigma}[] !{pointed_sigma}[] !{point}[]
-	- ὅτι or !{oti}[]
+	- Mark !{diple}[diple] !{dotted_diple}[dotted_diple] !{obelos}[obelos] !{asterisk}[asterisk] !{antisigma}[antisigma] !{pointed_antisigma}[pointed_antisigma] !{pointed_sigma}[pointed_sigma] !{point}[point]
+	- ὅτι or !{oti}[oti]
 
 [oti]: urn:cite:hmt:vaimg.VA155RN-0327@0.6981,0.6494,0.0126,0.0094
 [diple]: urn:cite:hmt:vaimg.VA101RN-0273@0.1792,0.2434,0.015,0.0158
@@ -38,7 +38,7 @@ Where are we?
 [point]: urn:cite:hmt:vaimg.VA111RN-0283@0.1832,0.4448,0.018,0.0165
 
 ---
-= data-x='2000'
+= data-x='2000' data-rotate-x='90'
 # Diple
 
 Something interesting here!!
@@ -51,7 +51,7 @@ Something interesting here!!
 [diple_scholion]: urn:cite:hmt:vaimg.VA155RN-0327@0.1151,0.648,0.6713,0.0753
 
 ---
-= data-x='2000'
+= data-x='2000' data-rotate-x='180'
 # Dotted Diple
 
 Something interesting here related to Zenodotus!!
@@ -63,11 +63,11 @@ Something interesting here related to Zenodotus!!
 [dot_diple_scholion]: urn:cite:hmt:vaimg.VA155RN-0327@0.5942,0.5861,0.1935,0.0647
 
 ---
-= data-x='3000'
+= data-x='3000' data-rotate-x='180'
 ## Now time for something actually interesting...
 
 ---
-= data-x='3000'
+= data-x='3000' data-rotate-x='180' data-rotate-y='90'
 # Example 1
 
 !{Oti Interlinear Line}[oti_interlinear_line]
@@ -77,31 +77,30 @@ Something interesting here related to Zenodotus!!
 [oti_interlinear_line]: urn:cite:hmt:vaimg.VA155RN-0327@0.1527,0.5132,0.4564,0.031
 [oti_interlinear_odd]: urn:cite:hmt:vaimg.VA155RN-0327@0.3355,0.5125,0.1003,0.0303
 
-ὅτι αντὶ τοῦ στέφηται
+ὄτι αντὶ τοῦ στέφηται
 
 ---
-= data-x='3000'
+= data-x='3000' data-rotate-x='180' data-rotate-y='180'
 # Example 2
 
 !{2 Diplay Line}[2_diplay_line]
 
-!{2 Diplay Oti 1}[2_diplay_oti1]
+{!{2 Diplay Oti 1}[2_diplay_oti1]}[2_diplay_oti1]
 
 [2_diplay_line]: urn:cite:hmt:vaimg.VA155RN-0327@0.1443,0.5906,0.4461,0.0296
 [2_diplay_oti1]:urn:cite:hmt:vaimg.VA155RN-0327@0.1313,0.7385,0.6422,0.0259
 
-ὄτι ἀντὶ ἀνδρείως δὲ θνήσκει
-
 ---
-= data-x='3000'
+= data-x='3000' data-rotate-x='180' data-rotate-y='270'
 # But wait... Theres more!!
 
 !{2 Diplay Line}[2_diplay_line]
 
-{!{2 Diplay Oti 2}[2_diplay_oti2]}[2_diplay_oti2]
+!{2 Diplay Oti 2}[2_diplay_oti2]
 
 [2_diplay_oti2]: urn:cite:hmt:vaimg.VA155RN-0327@0.3732,0.5922,0.2081,0.0256
 
+ὄτι ἀντὶ ἀνδρείως δὲ θνήσκει
 
 ---
 = data-x='4000'
