@@ -77,7 +77,7 @@ Something interesting here related to Zenodotus!!
 [oti_interlinear_line]: urn:cite:hmt:vaimg.VA155RN-0327@0.1527,0.5132,0.4564,0.031
 [oti_interlinear_odd]: urn:cite:hmt:vaimg.VA155RN-0327@0.3355,0.5125,0.1003,0.0303
 
-ὄτι αντὶ τοῦ στέφηται
+ὅτι αντὶ τοῦ στέφηται
 
 ---
 = data-x='3000' data-rotate-x='180' data-rotate-y='180'
@@ -100,7 +100,7 @@ Something interesting here related to Zenodotus!!
 
 [2_diplay_oti2]: urn:cite:hmt:vaimg.VA155RN-0327@0.3732,0.5922,0.2081,0.0256
 
-ὄτι ἀντὶ ἀνδρείως δὲ θνήσκει
+ὅτι ἀντὶ ἀνδρείως δὲ θνήσκει
 
 ---
 = data-x='4000'

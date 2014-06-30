@@ -76,7 +76,7 @@ Something interesting here related to Zenodotus!!
 [oti_interlinear_line]: images/img14.jpg
 [oti_interlinear_odd]: images/img15.jpg
 
-ὄτι αντὶ τοῦ στέφηται
+ὅτι αντὶ τοῦ στέφηται
 
 ---
 = data-x='3000' data-rotate-x='180' data-rotate-y='180'
@@ -99,7 +99,7 @@ Something interesting here related to Zenodotus!!
 
 [2_diplay_oti2]: images/img3.jpg
 
-ὄτι ἀντὶ ἀνδρείως δὲ θνήσκει
+ὅτι ἀντὶ ἀνδρείως δὲ θνήσκει
 
 ---
 = data-x='4000'
