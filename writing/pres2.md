@@ -77,6 +77,8 @@ Something interesting here related to Zenodotus!!
 [oti_interlinear_line]: urn:cite:hmt:vaimg.VA155RN-0327@0.1527,0.5132,0.4564,0.031
 [oti_interlinear_odd]: urn:cite:hmt:vaimg.VA155RN-0327@0.3355,0.5125,0.1003,0.0303
 
+ὅτι αντὶ τοῦ στέφηται
+
 ---
 = data-x='3000'
 # Example 2
@@ -87,6 +89,8 @@ Something interesting here related to Zenodotus!!
 
 [2_diplay_line]: urn:cite:hmt:vaimg.VA155RN-0327@0.1443,0.5906,0.4461,0.0296
 [2_diplay_oti1]:urn:cite:hmt:vaimg.VA155RN-0327@0.1313,0.7385,0.6422,0.0259
+
+ὄτι ἀντὶ ἀνδρείως δὲ θνήσκει
 
 ---
 = data-x='3000'
