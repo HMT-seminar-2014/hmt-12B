@@ -1,14 +1,17 @@
---- author: HMT Group B title: Final Pres
-
-Blank Slide
+---
+author: HMT Group B
+title: Final Pres
 
 ---
 
-#The Composition of Venetus A with Regard to Aristarchan Critical Marks.#
+> Blank Slide
 
---- = data-x='1000'
+---
+# The Composition of Venetus A with Regard to Aristarchan Critical Marks.
 
-#Intro#
+---
+= data-x='1000'
+# Intro
 
 Where are we?
 
@@ -16,51 +19,50 @@ Where are we?
 - Wall being destroyed
 - Hector begins charge on the Greeks
 
---- = data-x='2000'
+---
+= data-x='2000'
+# Aristarchan Critical marks
 
-#Aristarchan Critical marks#
-
-- Aristarchus was a librarian who editted Homeric texts
+- Aristarchus was a librarian who edited Homeric texts
 - General format:
-
-- Mark
-- ὅτι or ![oti][oti_example]
+	- Mark
+	- ὅτι or ![oti][oti_example]
 
 [oti_example]: images/img22.jpg
 
---- = data-x='2000'
-
-#Diplay#
+---
+= data-x='2000'
+# Diple
 
 Something interesting here!!
 
-![Diplay Line][diplay_line]
+![Diple Line][diple_line]
 
-![Diplay Scholion][diplay_scholion]
+![Diple Scholion][diple_scholion]
 
-[diplay_line]: images/img18.jpg
+[diple_line]: images/img18.jpg
 
-[diplay_scholion]: images/img19.jpg
+[diple_scholion]: images/img19.jpg
 
---- = data-x='2000'
-
-#Dotted diplay#
+---
+= data-x='2000'
+# Dotted Diple
 
 Something interesting here related to Zenodotus!!
 
-![Dot Diplay Line][dot_diplay_line] ![Dot Diplay Scholion][dot_diplay_scholion]
+![Dot Diple Line][dot_diple_line] ![Dot Diple Scholion][dot_diple_scholion]
 
-[dot_diplay_line]: images/img20.jpg
+[dot_diple_line]: images/img20.jpg
 
-[dot_diplay_scholion]: images/img21.jpg
+[dot_diple_scholion]: images/img21.jpg
 
---- = data-x='3000'
+---
+= data-x='3000'
+## Now time for something actually interesting...
 
-##Now time for something actually interesting...##
-
---- = data-x='3000'
-
-#Example 1#
+---
+= data-x='3000'
+# Example 1
 
 ![Oti Interlinear Line][oti_interlinear_line]
 
@@ -70,33 +72,32 @@ Something interesting here related to Zenodotus!!
 
 [oti_interlinear_odd]: images/img24.jpg
 
---- = data-x='3000'
+---
+= data-x='3000'
+# Example 2
 
-#Example 2#
+![2 Diple Line][2_diple_line]
 
-![2 Diplay Line][2_diplay_line]
+![2 Diple Oti 1][2_diple_oti1]
 
-![2 Diplay Oti 1][2_diplay_oti1]
+[2_diple_line]: images/img15.jpg
 
-[2_diplay_line]: images/img15.jpg
+[2_diple_oti1]: images/img16.jpg
 
-[2_diplay_oti1]: images/img16.jpg
+---
+= data-x='3000'
+# But wait... Theres more!!
 
---- = data-x='3000'
+![2 Diple Line][2_diple_line]
 
-#But wait... Theres more!!#
+![2 Diple Oti 2][2_diple_oti2]
 
-![2 Diplay Line][2_diplay_line]
+[2_diple_oti2]: images/img17.jpg
 
-![2 Diplay Oti 2][2_diplay_oti2]
-
-[2_diplay_oti2]: images/img17.jpg
-
---- = data-x='4000'
-
-#Conclusion#
+---
+= data-x='4000'
+# Conclusion
 
 - Unusual usage of Aristarchan marks
 - Multiple sources
 - Multiple passes
-
