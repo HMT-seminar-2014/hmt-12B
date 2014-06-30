@@ -1,3 +1,4 @@
+Scholion,Reference
 "urn:cts:greekLit:tlg5026.msA.hmt:1.1","urn:cts:greekLit:tlg0012.tlg001:1.192"
 "urn:cts:greekLit:tlg5026.msA.hmt:1.1","urn:cts:greekLit:tlg0012.tlg001:1.181"
 "urn:cts:greekLit:tlg5026.msA.hmt:1.1","urn:cts:greekLit:tlg0012.tlg001:1.488"
