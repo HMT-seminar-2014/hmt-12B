@@ -16,7 +16,7 @@ Evidence within the Venetus A manuscript suggests that one scribe composed the m
 
 Main Text | Scholion Correction | As Shown on Folio --- | --- | --- Full word | Full word corrected with link | ![30r][correction1img]
 
-[correction1img]: images/img29.jpg
+[correction1img]: images/img39.jpg
 
 ###Omitted Lines Added###
 
@@ -24,9 +24,9 @@ Main Text | Scholion Correction | As Shown on Folio --- | --- | --- Full word | 
 
 Explaination...
 
-[omitted1img]: images/img30.jpg
+[omitted1img]: images/img40.jpg
 
-[omitted2img]: images/img31.jpg
+[omitted2img]: images/img41.jpg
 
 ###Completeion Of Elisions###
 

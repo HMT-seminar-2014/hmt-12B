@@ -1,13 +1,6 @@
-Allen.md
 cdmgr.conf
-test.md
+CharliesAllen.md
+pres-old.md
+pres2.md
+SamsAllen.md
 VH2014-outline.md
-Allen-1.md
-cdmgr-1.conf
-test-1.md
-VH2014-outline-1.md
-Allen-2.md
-cdmgr-2.conf
-pres.md
-test-2.md
-VH2014-outline-2.md

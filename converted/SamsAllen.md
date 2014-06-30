@@ -16,7 +16,7 @@ Evidence within the Venetus A manuscript suggests that one scribe composed the m
 
 | Main Text | Scolio Correction | As Shown on Folio | | --- | --- | --- | | | | ![30r][correction1img] |
 
-[correction1img]: images/img15.jpg
+[correction1img]: images/img25.jpg
 
 ###Omitted Lines Added###
 
@@ -28,39 +28,39 @@ Evidence within the Venetus A manuscript suggests that one scribe composed the m
 
 ![315][ommitted_line1_img]
 
-[folio106]: images/img17.jpg
+[folio106]: images/img27.jpg
 
-[ref_line1_img]: images/img24.jpg
+[ref_line1_img]: images/img34.jpg
 
-[numeral_α1]: images/img18.jpg
+[numeral_α1]: images/img28.jpg
 
-[ommitted_line1_img]: images/img20.jpg
+[ommitted_line1_img]: images/img30.jpg
 
-[numeral_β1]: images/img19.jpg
+[numeral_β1]: images/img29.jpg
 
-[usual_sign_crescent1]: images/img28.jpg
+[usual_sign_crescent1]: images/img38.jpg
 
 ####Example 2:####
 
-[ref_line2_img]: images/img25.jpg
+[ref_line2_img]: images/img35.jpg
 
-[ommitted_line2_img]: images/img21.jpg
+[ommitted_line2_img]: images/img31.jpg
 
 ####Example 3:####
 
-[ref_line3_img]: images/img26.jpg
+[ref_line3_img]: images/img36.jpg
 
-[ommitted_line3_img]: images/img22.jpg
+[ommitted_line3_img]: images/img32.jpg
 
 ####Example 4:####
 
-[ref_line4_img]: images/img27.jpg
+[ref_line4_img]: images/img37.jpg
 
-[ommitted_line4_img]: images/img23.jpg
+[ommitted_line4_img]: images/img33.jpg
 
 ####Example 5:####
 
-[deleted_line1_img]: images/img16.jpg
+[deleted_line1_img]: images/img26.jpg
 
 ###Completeion Of Elisions###
 
