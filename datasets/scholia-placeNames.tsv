@@ -22,7 +22,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:1.37	urn:cite:hmt:place.place13
 urn:cts:greekLit:tlg5026.msA.hmt:1.37	urn:cite:hmt:place.place11
 urn:cts:greekLit:tlg5026.msA.hmt:1.38	urn:cite:hmt:place.place14
 urn:cts:greekLit:tlg5026.msA.hmt:1.38	urn:cite:hmt:place.place14
-urn:cts:greekLit:tlg5026.msA.hmt:1.38	15
+urn:cts:greekLit:tlg5026.msA.hmt:1.38	urn:cite:hmt:place.place15
 urn:cts:greekLit:tlg5026.msA.hmt:1.38	urn:cite:hmt:place.place16
 urn:cts:greekLit:tlg5026.msA.hmt:1.38	urn:cite:hmt:place.place16
 urn:cts:greekLit:tlg5026.msA.hmt:1.38	urn:cite:hmt:place.place14
@@ -108,7 +108,6 @@ urn:cts:greekLit:tlg5026.msA.hmt:1.996	urn:cite:hmt:place.place51
 urn:cts:greekLit:tlg5026.msA.hmt:1.996	urn:cite:hmt:place.place52
 urn:cts:greekLit:tlg5026.msA.hmt:1.996	urn:cite:hmt:place.place25
 urn:cts:greekLit:tlg5026.msA.hmt:1.1032	urn:cite:hmt:place.place77
-urn:cts:greekLit:tlg5026.msA.hmt:1.1060	urn:cite:hmt:pers.pers47
 urn:cts:greekLit:tlg5026.msA.hmt:1.1064	urn:cite:hmt:place.place34
 urn:cts:greekLit:tlg5026.msA.hmt:1.1064	urn:cite:hmt:place.place6
 urn:cts:greekLit:tlg5026.msA.hmt:1.1064	urn:cite:hmt:place.place61
@@ -461,7 +460,6 @@ urn:cts:greekLit:tlg5026.msA.hmt:4.312	urn:cite:hmt:place.place36
 urn:cts:greekLit:tlg5026.msA.hmt:4.312	urn:cite:hmt:place.place25
 urn:cts:greekLit:tlg5026.msA.hmt:4.312	urn:cite:hmt:place.place26
 urn:cts:greekLit:tlg5026.msA.hmt:4.312	urn:cite:hmt:place.place114
-urn:cts:greekLit:tlg5026.msA.hmt:4.400	pers541
 urn:cts:greekLit:tlg5026.msA.hmt:4.578	urn:cite:hmt:place.place114
 urn:cts:greekLit:tlg5026.msA.hmt:4.578	urn:cite:hmt:place.place5
 urn:cts:greekLit:tlg5026.msA.hmt:4.578	urn:cite:hmt:place.place1
@@ -510,7 +508,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:5.2032	urn:cite:hmt:place.place74
 urn:cts:greekLit:tlg5026.msA.hmt:5.2035	urn:cite:hmt:place.place74
 urn:cts:greekLit:tlg5026.msA.hmt:5.3005	urn:cite:hmt:place.place74
 urn:cts:greekLit:tlg5026.msA.hmt:5.4009	urn:cite:hmt:place.place91
-urn:cts:greekLit:tlg5026.msA.hmt:5.4009	palce87
+urn:cts:greekLit:tlg5026.msA.hmt:5.4009	urn:cite:hmt:place.place87
 urn:cts:greekLit:tlg5026.msA.hmt:5.4009	urn:cite:hmt:place.place91
 urn:cts:greekLit:tlg5026.msA.hmt:5.4009	urn:cite:hmt:place.place30
 urn:cts:greekLit:tlg5026.msA.hmt:5.4009	urn:cite:hmt:place.place90
@@ -596,10 +594,11 @@ urn:cts:greekLit:tlg5026.msA.hmt:9.503	urn:cite:hmt:place.place107
 urn:cts:greekLit:tlg5026.msA.hmt:9.519	urn:cite:hmt:place.place218
 urn:cts:greekLit:tlg5026.msA.hmt:9.524	urn:cite:hmt:place.place10
 urn:cts:greekLit:tlg5026.msA.hmt:9.527	urn:cite:hmt:place.place126
-urn:cts:greekLit:tlg5026.msA.hmt:9.527	pers488
 urn:cts:greekLit:tlg5026.msA.hmt:9.637	urn:cite:hmt:place.place13
 urn:cts:greekLit:tlg5026.msA.hmt:9.638	urn:cite:hmt:place.place178
 urn:cts:greekLit:tlg5026.msA.hmt:9.638	urn:cite:hmt:place.place178
 urn:cts:greekLit:tlg5026.msA.hmt:9.638	urn:cite:hmt:place.place200
 urn:cts:greekLit:tlg5026.msA.hmt:9.638	urn:cite:hmt:place.place8
 urn:cts:greekLit:tlg5026.msA.hmt:9.644	urn:cite:hmt:place.place15
+urn:cts:greekLit:tlg5026.msA.hmt:5.2007	urn:cite:hmt:place.place74
+urn:cts:greekLit:tlg5026.msA.hmt:5.4006	urn:cite:hmt:place.place76

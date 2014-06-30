@@ -151,8 +151,8 @@ urn:cts:greekLit:tlg5026.msA.hmt:1.1125	urn:cts:greekLit:tlg0012.tlg001:4.425
 urn:cts:greekLit:tlg5026.msA.hmt:1.1126	urn:cts:greekLit:tlg0012.tlg001:1.145
 urn:cts:greekLit:tlg5026.msA.hmt:1.1126	urn:cts:greekLit:tlg0012.tlg001:2.169
 urn:cts:greekLit:tlg5026.msA.hmt:1.1179	urn:cts:greekLit:tlg0012.tlg001:1.40
-urn:cts:greekLit:tlg5026.msA.hmt:1.1182	urn:cts:greekLit:tlg0012.tlg001:4.497, 15.574
-urn:cts:greekLit:tlg5026.msA.hmt:1.1182	urn:cts:greekLit:tlg0012.tlg002:4.344, 17.135
+urn:cts:greekLit:tlg5026.msA.hmt:1.1182	urn:cts:greekLit:tlg0012.tlg001:4.497,15.574
+urn:cts:greekLit:tlg5026.msA.hmt:1.1182	urn:cts:greekLit:tlg0012.tlg002:4.344,17.135
 urn:cts:greekLit:tlg5026.msA.hmt:1.1187	urn:cts:greekLit:tlg0012.tlg001:1.472
 urn:cts:greekLit:tlg5026.msA.hmt:1.1227	urn:cts:greekLit:tlg0012.tlg002:5.478
 urn:cts:greekLit:tlg5026.msA.hmt:1.1230	urn:cts:greekLit:tlg0012.tlg001:21.202
@@ -221,13 +221,11 @@ urn:cts:greekLit:tlg5026.msA.hmt:2.104	urn:cts:greekLit:tlg0012.tlg001:4.500
 urn:cts:greekLit:tlg5026.msA.hmt:2.104	urn:cts:greekLit:tlg0012.tlg001:13.28
 urn:cts:greekLit:tlg5026.msA.hmt:2.104	urn:cts:greekLit:tlg0012.tlg001:7.364
 urn:cts:greekLit:tlg5026.msA.hmt:2.168	urn:cts:greekLit:tlg0012.tlg001:2.119
-urn:cts:greekLit:tlg5026.msA.hmt:2.168	= Β 110. w 433. Β 120
 urn:cts:greekLit:tlg5026.msA.hmt:2.169	urn:cts:greekLit:tlg0012.tlg001:16.776
 urn:cts:greekLit:tlg5026.msA.hmt:2.169	urn:cts:greekLit:tlg0012.tlg001:16.358
 urn:cts:greekLit:tlg5026.msA.hmt:2.169	urn:cts:greekLit:tlg0012.tlg001:9.169
 urn:cts:greekLit:tlg5026.msA.hmt:2.169	urn:cts:greekLit:tlg0012.tlg001:18.292
 urn:cts:greekLit:tlg5026.msA.hmt:2.170	urn:cts:greekLit:tlg0012.tlg001:2.38
-urn:cts:greekLit:tlg5026.msA.hmt:2.171	(fr. 301 n.2 = 601 c m.)
 urn:cts:greekLit:tlg5026.msA.hmt:2.172	urn:cts:greekLit:tlg0012.tlg002:4.728
 urn:cts:greekLit:tlg5026.msA.hmt:2.173	urn:cts:greekLit:tlg0012.tlg001:1.45
 urn:cts:greekLit:tlg5026.msA.hmt:2.173	urn:cts:greekLit:tlg0012.tlg001:9.189
@@ -256,8 +254,6 @@ urn:cts:greekLit:tlg5026.msA.hmt:2.275	urn:cts:greekLit:tlg0012.tlg001:24.318
 urn:cts:greekLit:tlg5026.msA.hmt:2.310	urn:cts:greekLit:tlg0012.tlg001:2.197
 urn:cts:greekLit:tlg5026.msA.hmt:2.312	urn:cts:greekLit:tlg0012.tlg001:2.197
 urn:cts:greekLit:tlg5026.msA.hmt:2.322	urn:cts:greekLit:tlg0012.tlg001:2.277
-urn:cts:greekLit:tlg5026.msA.hmt:2.375	fr. 24 d.43 = 27 w.
-urn:cts:greekLit:tlg5026.msA.hmt:2.375	fr. 24 d.43 = 27 w.
 urn:cts:greekLit:tlg5026.msA.hmt:2.377	urn:cts:greekLit:tlg0012.tlg001:2.275
 urn:cts:greekLit:tlg5026.msA.hmt:2.380	urn:cts:greekLit:tlg0012.tlg001:1.166-1.167
 urn:cts:greekLit:tlg5026.msA.hmt:2.387	urn:cts:greekLit:tlg0012.tlg001:1.119
@@ -330,8 +326,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:2.641	urn:cts:greekLit:tlg0012.tlg001:2.580
 urn:cts:greekLit:tlg5026.msA.hmt:2.646	urn:cts:greekLit:tlg0012.tlg002:21.13
 urn:cts:greekLit:tlg5026.msA.hmt:2.646	urn:cts:greekLit:tlg0012.tlg002:21.13
 urn:cts:greekLit:tlg5026.msA.hmt:2.647	urn:cts:greekLit:tlg0012.tlg001:11.711
-urn:cts:greekLit:tlg5026.msA.hmt:2.651	urn:cts:greekLit:tlg0012.tlg002:11.584"
-urn:cts:greekLit:tlg5026.msA.hmt:2.652"
+urn:cts:greekLit:tlg5026.msA.hmt:2.651	urn:cts:greekLit:tlg0012.tlg002:11.584
 urn:cts:greekLit:tlg5026.msA.hmt:2.653	urn:cts:greekLit:tlg0012.tlg002:8.581
 urn:cts:greekLit:tlg5026.msA.hmt:2.670	urn:cts:greekLit:tlg0012.tlg001:13.1
 urn:cts:greekLit:tlg5026.msA.hmt:2.673	urn:cts:greekLit:tlg0012.tlg001:15.331
@@ -358,7 +353,8 @@ urn:cts:greekLit:tlg5026.msA.hmt:2.740	urn:cts:greekLit:tlg0012.tlg001:10.316
 urn:cts:greekLit:tlg5026.msA.hmt:2.741	urn:cts:greekLit:tlg0012.tlg002:15.418
 urn:cts:greekLit:tlg5026.msA.hmt:2.741	urn:cts:greekLit:tlg0012.tlg001:1.115
 urn:cts:greekLit:tlg5026.msA.hmt:2.742	urn:cts:greekLit:tlg0012.tlg001:23.266
-urn:cts:greekLit:tlg5026.msA.hmt:2.744	urn:cts:greekLit:tlg0012.tlg001:5.223,urn:cts:greekLit:tlg0012.tlg001:8.107
+urn:cts:greekLit:tlg5026.msA.hmt:2.744	urn:cts:greekLit:tlg0012.tlg001:5.223
+urn:cts:greekLit:tlg5026.msA.hmt:2.744	urn:cts:greekLit:tlg0012.tlg001:8.107
 urn:cts:greekLit:tlg5026.msA.hmt:2.754	urn:cts:greekLit:tlg0012.tlg001:23.358
 urn:cts:greekLit:tlg5026.msA.hmt:2.754	urn:cts:greekLit:tlg0012.tlg001:2.425
 urn:cts:greekLit:tlg5026.msA.hmt:2.755	urn:cts:greekLit:tlg0012.tlg001:2.782
