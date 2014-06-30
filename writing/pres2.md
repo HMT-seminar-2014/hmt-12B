@@ -24,10 +24,18 @@ Where are we?
 
 - Aristarchus was a librarian who edited Homeric texts
 - General format:
-	- Mark
-	- ὅτι or !{oti}[oti_example]
+	- Mark !{diple}[] !{dotted_diple}[] !{obelos}[] !{asterisk}[] !{antisigma}[] !{pointed_antisigma}[] !{pointed_sigma}[] !{point}[]
+	- ὅτι or !{oti}[]
 
-[oti_example]: urn:cite:hmt:vaimg.VA155RN-0327@0.6981,0.6494,0.0126,0.0094
+[oti]: urn:cite:hmt:vaimg.VA155RN-0327@0.6981,0.6494,0.0126,0.0094
+[diple]: urn:cite:hmt:vaimg.VA101RN-0273@0.1792,0.2434,0.015,0.0158
+[dotted_diple]: urn:cite:hmt:vaimg.VA101RN-0273@0.1752,0.4185,0.02,0.0128
+[obelos]: urn:cite:hmt:vaimg.VA101RN-0273@0.1722,0.4703,0.018,0.0128
+[asterisk]: urn:cite:hmt:vaimg.VA101RN-0273@0.1542,0.5079,0.019,0.0165
+[antisigma]: urn:cite:hmt:vaimg.VA111RN-0283@0.1912,0.3546,0.012,0.0158
+[pointed_antisigma]: urn:cite:hmt:vaimg.VA028RN-0029@0.1512,0.3043,0.019,0.0195
+[pointed_sigma]: urn:cite:hmt:vaimg.VA028RN-0029@0.1532,0.5139,0.017,0.0128
+[point]: urn:cite:hmt:vaimg.VA111RN-0283@0.1832,0.4448,0.018,0.0165
 
 ---
 = data-x='2000'
@@ -37,7 +45,7 @@ Something interesting here!!
 
 !{Diple Line}[diple_line]
 
-!{Diple Scholion}[diple_scholion]
+{!{Diple Scholion}[diple_scholion]}[diple_scholion]
 
 [diple_line]: urn:cite:hmt:vaimg.VA155RN-0327@0.1556,0.4027,0.4554,0.0267
 [diple_scholion]: urn:cite:hmt:vaimg.VA155RN-0327@0.1151,0.648,0.6713,0.0753
@@ -78,7 +86,7 @@ Something interesting here related to Zenodotus!!
 !{2 Diplay Oti 1}[2_diplay_oti1]
 
 [2_diplay_line]: urn:cite:hmt:vaimg.VA155RN-0327@0.1443,0.5906,0.4461,0.0296
-[2_diplay_oti1]: urn:cite:hmt:vaimg.VA155RN-0327@0.3732,0.5922,0.2081,0.0256
+[2_diplay_oti1]:urn:cite:hmt:vaimg.VA155RN-0327@0.1313,0.7385,0.6422,0.0259
 
 ---
 = data-x='3000'
@@ -86,9 +94,10 @@ Something interesting here related to Zenodotus!!
 
 !{2 Diplay Line}[2_diplay_line]
 
-!{2 Diplay Oti 2}[2_diplay_oti2]
+{!{2 Diplay Oti 2}[2_diplay_oti2]}[2_diplay_oti2]
 
-[2_diplay_oti2]:urn:cite:hmt:vaimg.VA155RN-0327@0.1313,0.7385,0.6422,0.0259
+[2_diplay_oti2]: urn:cite:hmt:vaimg.VA155RN-0327@0.3732,0.5922,0.2081,0.0256
+
 
 ---
 = data-x='4000'
