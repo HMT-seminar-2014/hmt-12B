@@ -43,7 +43,7 @@ Line Reference (Book.Line) | Main Text | Scholion Correction | As Shown on Folio
 {10.289}[ElisionText5] | κεῖσ᾽ | κεῖσε | !{131v}[ElisionImage5]
 {10.378}[ElisionText6] | ζωγρεῖτ᾽ | ζωγρεῖτε | !{133v}[ElisionImage6]
 {10.520}[ElisionText7] | ὄθ᾽ | ὄτι | !{136r}[ElisionImage7]
-{10.529}[ElisionText8] | χείρεσσ᾽ | χείρεσσι[ElisionText8] | !{136v}[ElisionImage8]
+{10.529}[ElisionText8] | χείρεσσ᾽ | χείρεσσι | !{136v}[ElisionImage8]
 
 Thus these types of interlinear scholia appear to be composed at the same time as the main text. Very few exceptions exist where the interlinear scholia appear to be composed at the same time as the main scholia:
 
