@@ -34,9 +34,25 @@ Explanation...
 
 ### Completion Of Elisions
 
-Main Text | Scholion Correction | As Shown on Folio
---- | --- | ---
-Full word | Full word corrected with link |
+Line Reference (Book.Line) | Main Text | Scholion Correction | As Shown on Folio
+
+--- | --- | --- | ---
+
+{3.425}[ElisionText1] | ἀντί᾽ | ἀντία | !{50r}[ElisionImage1]
+
+{9.673}[ElisionText2] | μ᾽ | μοι | !{125r}[ElisionImage2]
+
+{9.675}[ElisionText3] | ἔτ᾽ | ἔτι| !{125r}[ElisionImage3]
+
+{10.154}[ElisionText4] | λάμφ | λάμπε | !{129r}[ElisionImage4]
+
+{10.289}[ElisionText5] | κεῖσ᾽ | κεῖσε | !{131v}[ElisionImage5]
+
+{10.378}[ElisionText6] | ζωγρεῖτ᾽ | ζωγρεῖτε | !{133v}[ElisionImage6]
+
+{10.520}[ElisionText7] | ὄθ᾽ | ὄτι | !{136r}[ElisionImage7]
+
+{10.529}[ElisionText8] | χείρεσσ᾽ | χείρεσσι[ElisionText8] | !{136v}[ElisionImage8]
 
 Thus these types of interlinear scholia appear to be composed at the same time as the main text. Very few exceptions exist where the interlinear scholia appear to be composed at the same time as the main scholia:
 {141V 11.219}[ElisionText9] !{141V}[ElisionImage9] 
